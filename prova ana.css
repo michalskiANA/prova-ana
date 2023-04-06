@@ -1,0 +1,21 @@
+.div
+{
+font-family: Arial, Helvetica, sans-serif;
+}
+.cor
+{
+    background-color: blueviolet;
+}
+.tamanho
+{
+    font-size: 60px;
+}
+.lista
+{
+    display: block;
+    margin: 0 15px;
+}
+a {
+    text-align: center;
+    font-size: small;
+}
